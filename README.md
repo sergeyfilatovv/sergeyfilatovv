@@ -1,5 +1,4 @@
-
-    <section class="contacts">
+<section class="contacts">
         <div class="contacts__title">
             <h1 class="title">Обратная связь:</h1>
         </div>
