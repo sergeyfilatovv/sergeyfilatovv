@@ -1,11 +1,7 @@
-<header class="header">
-        <div class="header__title">
-            <h1 class="title">Cергей Филатов</h1>
-        </div>
-    </header>
+
     <section class="contacts">
         <div class="contacts__title">
-            <h2 class="title">Обратная связь:</h2>
+            <h1 class="title">Обратная связь:</h1>
         </div>
         <ul class="contacts__list">
             <li class="contacts__line"><a href="https://vk.com/id99299347">Вконтакте</a></li>
